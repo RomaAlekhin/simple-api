@@ -1,69 +1,69 @@
 [
   {
-    "id": 1,
+    "id": "87233312-a0ac-4ff5-bd53-998a9aa5ed8e",
     "brand": "BMW",
     "country": "Germany",
     "founded": 1916,
     "popularModels": ["3 Series", "5 Series", "X5"]
   },
   {
-    "id": 2,
+    "id": "c91c2479-7218-4593-884a-b8cc10bde121",
     "brand": "Toyota",
     "country": "Japan",
     "founded": 1937,
     "popularModels": ["Camry", "Corolla", "Rav4"]
   },
   {
-    "id": 3,
+    "id": "f4fb7328-5d47-4d21-b78d-f388c7043146",
     "brand": "Ford",
     "country": "United States",
     "founded": 1903,
     "popularModels": ["F-150", "Mustang", "Explorer"]
   },
   {
-    "id": 4,
+    "id": "883166f8-fd49-4076-926d-c9c6755debdc",
     "brand": "Mercedes-Benz",
     "country": "Germany",
     "founded": 1926,
     "popularModels": ["C-Class", "E-Class", "S-Class"]
   },
   {
-    "id": 5,
+    "id": "a8ea9260-f822-4188-9192-d2a29e0ba01b",
     "brand": "Honda",
     "country": "Japan",
     "founded": 1946,
     "popularModels": ["Civic", "Accord", "CR-V"]
   },
   {
-    "id": 6,
+    "id": "a4dc94be-f32b-4639-8f4e-17d43aabd9c9",
     "brand": "Chevrolet",
     "country": "United States",
     "founded": 1911,
     "popularModels": ["Silverado", "Equinox", "Malibu"]
   },
   {
-    "id": 7,
+    "id": "3251b2ee-1bb4-461c-a79e-6839c56afefa",
     "brand": "Volkswagen",
     "country": "Germany",
     "founded": 1937,
     "popularModels": ["Golf", "Passat", "Tiguan"]
   },
   {
-    "id": 8,
+    "id": "f97ca49f-71a5-4c10-8ef5-574cddcbb3ee",
     "brand": "Nissan",
     "country": "Japan",
     "founded": 1933,
     "popularModels": ["Altima", "Rogue", "Titan"]
   },
   {
-    "id": 9,
+    "id": "fbf02100-6e1e-4f89-ab2c-60092495a092",
     "brand": "Tesla",
     "country": "United States",
     "founded": 2003,
     "popularModels": ["Model S", "Model 3", "Model X"]
   },
   {
-    "id": 10,
+    "id": "a1baedd9-fe5d-45ec-b765-0e4121b6372f",
     "brand": "Audi",
     "country": "Germany",
     "founded": 1910,
